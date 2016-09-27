@@ -1,0 +1,29 @@
+{
+  "name": "3e-damage-tester",
+  "version": "1.0.0",
+  "description": "A simple average damage calculator for D&D 3e",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node index.js",
+    "jsdoc": "jsdoc -c jsdoc.json -r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EternalDeiwos/3e-damage-tester.git"
+  },
+  "keywords": [
+    "D&D",
+    "DnD",
+    "Dungeons",
+    "and",
+    "Dragons",
+    "3e",
+    "3.5e"
+  ],
+  "author": "Greg Linklater",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EternalDeiwos/3e-damage-tester/issues"
+  },
+  "homepage": "https://github.com/EternalDeiwos/3e-damage-tester#readme"
+}

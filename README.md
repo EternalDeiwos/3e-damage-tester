@@ -68,3 +68,11 @@ stats.run(ITERATIONS).report()
 # Results
 ![Damask Spear](./images/DamaskSpear.png)
 ![Greensteel Scimitar](./images/GreensteelScim.png)
+
+# Docs
+
+Run the following in a terminal:
+```bash
+sudo npm i -g jsdoc
+npm run jsdoc
+```
